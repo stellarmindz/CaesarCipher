@@ -30,7 +30,7 @@ For instance, with a shift of 3:
     Clone the Repository:
     Bash
 
-    git clone https://github.com/your-username/caesar-cipher-python.git
+    git clone https://github.com/stellarmindz/CaesarCipher.git
 
     Run the Script: You can import the functions into your own project or use the provided example:
     Python
